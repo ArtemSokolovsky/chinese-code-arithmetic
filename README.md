@@ -19,11 +19,11 @@
 Для использования учебного калькулятора с подробным выводом вычислений:
 
 ```
-python educational/interface.py
+python educational/Interface.py
 Для использования практического калькулятора для работы с большими числами
 ```
 ```
-python practical/interface.py
+python practical/Interface.py
 Для тестирования производительности
 ```
 ```
